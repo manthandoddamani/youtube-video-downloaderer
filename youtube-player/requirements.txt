@@ -1,10 +1,4 @@
-﻿blinker
-click
-colorama
-Flask
-Flask-Cors
-itsdangerous
-Jinja2
-MarkupSafe
-Werkzeug
+flask
 yt-dlp
+ffmpeg-python
+gunicorn
